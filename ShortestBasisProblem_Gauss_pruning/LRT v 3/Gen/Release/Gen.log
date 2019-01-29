@@ -1,0 +1,110 @@
+﻿Build started 15.02.2013 1:20:37.
+     1>Project "D:\!!!Lattice reduction\LRT v 3\Gen\Gen.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\LRT.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\ /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt LLL.cpp
+         LLL.cpp
+     1>LLL.cpp(163): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>LLL.cpp(165): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>LLL.cpp(220): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>LLL.cpp(222): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>LLL.cpp(253): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>LLL.cpp(255): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>LLL.cpp(280): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>LLL.cpp(282): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>LLL.cpp(307): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>LLL.cpp(309): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>LLL.cpp(333): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>LLL.cpp(335): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>LLL.cpp(372): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>LLL.cpp(374): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>LLL.cpp(402): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>LLL.cpp(404): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>LLL.cpp(431): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>LLL.cpp(433): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>LLL.cpp(459): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>LLL.cpp(461): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>LLL.cpp(486): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>LLL.cpp(488): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\!!!Lattice reduction\LRT v 3\Release\LRT.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\LRT.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\!!!Lattice reduction\LRT v 3\Release\LRT.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\!!!Lattice reduction\LRT v 3\Release\LRT.lib" /MACHINE:X86 Release\LLL.obj
+         ..\..\ntl.lib
+         Generating code
+     1>d:\!!!lattice reduction\lrt v 3\gen\lll.cpp(171): warning C4700: uninitialized local variable 'timer1' used
+     1>d:\!!!lattice reduction\lrt v 3\gen\lll.cpp(171): warning C4700: uninitialized local variable 'timer2' used
+         Finished generating code
+     1>ntl.lib(lip.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(lip.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(RR.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(RR.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(LLL_XD.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(LLL_XD.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(ZZ.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(ZZ.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(vec_ZZ.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(vec_ZZ.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(mat_ZZ.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(mat_ZZ.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(ZZ_p.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(ZZ_p.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(ZZX1.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(ZZX1.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(ZZX.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(ZZX.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(vec_ZZ_p.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(vec_ZZ_p.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(LLL_QP.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(LLL_QP.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(vec_RR.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(vec_RR.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(vec_vec_ZZ.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(vec_vec_ZZ.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(LLL_RR.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(LLL_RR.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(LLL_FP.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(LLL_FP.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(ZZ_pX1.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(ZZ_pX1.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(LLL.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(LLL.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(ctools.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(ctools.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(xdouble.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(xdouble.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(quad_float.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(quad_float.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(tools.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(tools.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(vec_xdouble.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(vec_xdouble.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(vec_long.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(vec_long.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(fileio.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(fileio.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(vec_double.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(vec_double.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(GetTime.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(GetTime.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(mat_lzz_p.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(mat_lzz_p.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(vec_lzz_p.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(vec_lzz_p.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(vec_vec_lzz_p.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(vec_vec_lzz_p.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(lzz_p.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(lzz_p.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(vec_vec_ZZ_p.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(vec_vec_ZZ_p.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(mat_ZZ_p.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(mat_ZZ_p.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(FFT.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(FFT.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(lzz_pX.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(lzz_pX.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(lzz_pX1.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(lzz_pX1.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(ZZ_pX.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(ZZ_pX.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(ZZVec.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(ZZVec.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(vec_quad_float.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(vec_quad_float.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(vec_vec_RR.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(vec_vec_RR.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(mat_RR.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(mat_RR.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+     1>ntl.lib(vec_ZZVec.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'ntl.lib(vec_ZZVec.obj)' or at 'D:\!!!Lattice reduction\LRT v 3\Release\vc100.pdb'; linking object as if no debug info
+         Gen.vcxproj -> D:\!!!Lattice reduction\LRT v 3\Release\LRT.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\!!!Lattice reduction\LRT v 3\Release\LRT.exe;#1" /manifest Release\LRT.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\LRT.unsuccessfulbuild".
+         Touching "Release\LRT.lastbuildstate".
+     1>Done Building Project "D:\!!!Lattice reduction\LRT v 3\Gen\Gen.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.85

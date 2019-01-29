@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LRT">
+</Property><Property Name="Solution File" Value="D:\Lattice reduction\LRT\LRT.sln">
+</Property><Property Name="User Options File" Value="D:\Lattice reduction\LRT\LRT.suo">
+</Property><Property Name="Date" Value="11 ноября 2011 г.">
+</Property><Property Name="Time" Value="17:09">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LRT.sln" Description="File successfully backed up as D:\Lattice reduction\LRT\LRT.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="LRT.suo" Description="File successfully backed up as D:\Lattice reduction\LRT\LRT.suo.old">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\Gen.vcproj" Description="Converting project file 'D:\Lattice reduction\LRT\Gen\Gen.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Gen" Source="Gen\Gen.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Gen" Source="Gen\Gen.vcproj" Description="VCConvertEngine could not convert attribute UseFAT32Workaround = false under Tool VCManifestTool.">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\Gen.vcproj" Description="Done converting to new project file 'D:\Lattice reduction\LRT\Gen\Gen.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Gen" Source="Gen\Gen.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LRT1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LRT1.sln" Description="Converted">
+</Event></UpgradeLog>

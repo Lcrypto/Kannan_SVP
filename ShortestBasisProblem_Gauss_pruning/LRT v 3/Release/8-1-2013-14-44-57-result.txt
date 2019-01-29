@@ -1,0 +1,9 @@
+[]
+Lattice reduced by BKZ extended exponent doubles precision, delta 1
+Lattice reduced by BKZ block-size: 11
+Calculation demand : 0 second
+Seed is : 3
+Index is : 56
+[]
+
+Can't find minimal norm of Lattice
