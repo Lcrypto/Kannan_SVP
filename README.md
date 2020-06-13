@@ -1,4 +1,6 @@
-# Kannan_SVP55
+# Kannan method for solving Shortest Vector Problem and Block Korkin-Zolotarev method for solve Shortest Vector Problem
+
+
 ![alt text](https://github.com/Lcrypto/Kannan_SVP/blob/master/Ideal%20Lattice%20%20Challenge%20(TU%20Darmstadt-U%20Wollongong)%202013%20result.jpg)
 
 
