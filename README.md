@@ -4,6 +4,10 @@
 ![alt text](https://github.com/Lcrypto/Kannan_SVP/blob/master/Ideal%20Lattice%20%20Challenge%20(TU%20Darmstadt-U%20Wollongong)%202013%20result.jpg)
 
 
-This repo contain implementations of Kannan methods for enumerating shortest vector (short(est) vector problem, SVP) in Lattice with norm less than some radius,  [solution, comb, normsolution]  = KFP2( A, norma2 ). Add different lattice reduction (LLL,KZ/HKZ,Seysen,Brun - solve short(est) basis problems, SBP) for preprocessing Lattice for speed-up method. Base algorithm for Sphere Decoder (MIMO, QR-MLD, Lattice Aided), ECC decoding (BDD), Hamming distance estimation(Based on Kannan Embeding techniques), Post Quantum Crytography cryptoanalysis (before LWE-problems, not trivial to directly applied to solve non-binary and non-ternary cases).
+The GitHub repository contains implementations of Kannan's methods for enumerating the shortest vector in a lattice with a norm less than some radius, also known as the Short(est) Vector Problem (SVP). The provided implementations include solutions in MATLAB and C++ using the NTL Library by Victor Shoup.
 
-Matlab prototypes and C++ NTL Library (Victor Shoup) implementations.
+In addition to Kannan's method, the repository includes various lattice reduction algorithms such as LLL, KZ/HKZ, Seysen, and Brun. These algorithms can preprocess the lattice to speed up the enumeration process.
+
+The base algorithm used for Sphere Decoder (MIMO, QR-MLD, Lattice Aided), ECC decoding (BDD), Hamming distance estimation (based on Kannan Embedding techniques), and Post Quantum Cryptography cryptoanalysis (before LWE-problems) can be found in the repository. However, it should be noted that these methods may not be directly applicable to non-binary or non-ternary cases.
+
+Overall, this repository provides useful tools and implementations for solving various problems related to lattices, including SVP, short(est) basis problems (SBP), Hamming distance estimation, and cryptography-related analyses.
