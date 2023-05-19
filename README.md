@@ -14,8 +14,7 @@ The base algorithm used for Sphere Decoder (MIMO, QR-MLD, Lattice Aided), ECC de
 
 
 
-One of important application of Number geometry it estimation of code distance, we use the Lattice-based method (Kannan embeding, SVP, SBP, Block Korkin-Zolotarev, BKZ for solution Shortest Basis Problem) to achieve this goal, but you can use Dumer or Brouwer-Zimmerman implementation from GAP/MAGMA.
-According to our (Usatyuk Vasiliy) results in the code distance challenge at https://decodingchallenge.org/low-weight/, Lattice methods are superior:
+One of important application of Number geometry it estimation of code distance using  Lattice-based method (Kannan embeding, SVP, SBP, Block Korkin-Zolotarev, BKZ for solution Shortest Basis Problem). According to our (Usatyuk Vasiliy) results in the code distance challenge at https://decodingchallenge.org/low-weight/, Lattice methods are superior:
 ![alt text](https://github.com/Lcrypto/Length-und-Rate-adaptive-code/blob/master/Code_distance_challenge.png)
 
 Overall, this repository provides useful tools and implementations for solving various problems related to lattices, including SVP, short(est) basis problems (SBP), Hamming distance estimation, and cryptography-related analyses.
