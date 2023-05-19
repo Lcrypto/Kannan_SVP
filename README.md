@@ -12,4 +12,10 @@ In addition to Kannan's method, the repository includes various lattice reductio
 
 The base algorithm used for Sphere Decoder (MIMO, QR-MLD, Lattice Aided), ECC decoding (BDD), Hamming distance estimation (based on Kannan Embedding techniques), and Post Quantum Cryptography cryptoanalysis (before LWE-problems) can be found in the repository. However, it should be noted that these methods may not be directly applicable to non-binary or non-ternary cases.
 
+
+
+One of important application of Number geometry it estimation of code distance, we use the Lattice-based method (Kannan embeding, SVP, SBP, Block Korkin-Zolotarev, BKZ for solution Shortest Basis Problem) to achieve this goal, but you can use Dumer or Brouwer-Zimmerman implementation from GAP/MAGMA.
+According to our (Usatyuk Vasiliy) results in the code distance challenge at https://decodingchallenge.org/low-weight/, Lattice methods are superior:
+![alt text](https://github.com/Lcrypto/Length-und-Rate-adaptive-code/blob/master/Code_distance_challenge.png)
+
 Overall, this repository provides useful tools and implementations for solving various problems related to lattices, including SVP, short(est) basis problems (SBP), Hamming distance estimation, and cryptography-related analyses.
